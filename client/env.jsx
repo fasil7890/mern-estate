@@ -1,0 +1,1 @@
+export const VITE_FIREBASE_API_KEY = "AIzaSyBZnLziWWIA-siIdnlp3SVUFdlD97FSLfw"
